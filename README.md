@@ -23,6 +23,6 @@
 [*לחץ כאן על מנת לעבור למשחק*](https://s-k-games.itch.io/amazonas) 
 
 
-![](https://github.com/S-K-Game/HW5/blob/master/Amazonas/Assets/images/Game.png)
+![](https://github.com/S-K-Game/HW5-IceTower/blob/master/Assets/Images/game%20pic.PNG)
 
 </div>
