@@ -20,7 +20,7 @@
 
   
   
-[*לחץ כאן על מנת לעבור למשחק*](https://s-k-games.itch.io/amazonas) 
+[*לחץ כאן על מנת לעבור למשחק*](https://sivan-koral.itch.io/ice) 
 
 
 ![](https://github.com/S-K-Game/HW5-IceTower/blob/master/Assets/Images/game%20pic.PNG)
